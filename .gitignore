@@ -1,0 +1,18 @@
+# MacOS junk
+.DS_store
+
+# Windows junk
+thumbs.db
+
+# Linux junk
+*~
+*.bak
+.hide
+.nocache
+
+# Compiler junk
+*.[ado]
+*.so
+build
+
+#TAF!
